@@ -3,5 +3,14 @@
     <title>Tags - Tag - 夜火博客</title>
     <link>http://xloong.github.io/tags/</link>
     <description>Tags - Tag - 夜火博客</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="http://xloong.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>soxlong@gmail.com (xloong)</managingEditor>
+      <webMaster>soxlong@gmail.com (xloong)</webMaster><lastBuildDate>Thu, 08 Dec 2022 21:28:50 &#43;0800</lastBuildDate><atom:link href="http://xloong.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>hugo</title>
+  <link>http://xloong.github.io/tags/hugo/</link>
+  <pubDate>Thu, 08 Dec 2022 21:28:50 &#43;0800</pubDate>
+  <author>xloong</author>
+  <guid>http://xloong.github.io/tags/hugo/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
