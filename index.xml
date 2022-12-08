@@ -8,10 +8,10 @@
       <atom:link href="http://xloong.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
   <title>第一篇文章</title>
-  <link>http://xloong.github.io/posts/2022-12-08_%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+  <link>http://xloong.github.io/posts/1%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
   <pubDate>Thu, 08 Dec 2022 21:28:50 &#43;0800</pubDate>
   <author>xloong</author>
-  <guid>http://xloong.github.io/posts/2022-12-08_%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+  <guid>http://xloong.github.io/posts/1%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
   <description><![CDATA[使用hugo发布的第一篇文章 嗯&hellip; 也许是最后一篇? 使用 hugo 的起因是看到 v2ex 上的帖子 https://www.v2ex.com/t/900837 搞的自己也想简单弄个静态的了,随便哪一放,服务器]]></description>
 </item>
 </channel>
